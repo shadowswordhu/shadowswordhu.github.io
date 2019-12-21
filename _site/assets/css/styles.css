@@ -1,2 +1,10 @@
 .current {
   color: green; }
+
+* {
+  max-width: 768px;
+  font-family: Tahoma, Geneva, sans-serif;
+  margin: auto; }
+
+nav {
+  text-align: center; }
